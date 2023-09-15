@@ -57,7 +57,11 @@ div {
     border-top: 2px solid white;
 }
 
-.blue h1 p {
+.blue h1 {
+    color: #C4C4C4;
+}
+
+.blue p {
     color: #C4C4C4;
 }
 
@@ -74,7 +78,7 @@ div {
 }
 
 .green {
-    background-color: #00EB00;
+    background-color: #00D800;
     text-align: left;
     border-right: 5px solid white;
     border-top: 2px solid white;
